@@ -1,0 +1,15 @@
+[package]
+name = "cluMeasurementData"
+version = "0.1.2"
+authors = ["Denis Kotlyarov (Денис Котляров) <denis2005991@gmail.com>"]
+repository = "https://github.com/clucompany/cluMeasurementData.git"
+homepage = "https://crates.io/crates/cluMeasurementData"
+license = "MIT"
+readme = "README.md"
+edition = "2018"
+
+description = ""
+keywords = ["", "clucompany"]
+categories = ["development-tools"]
+
+[dependencies]
